@@ -1,5 +1,5 @@
 # SHU Project (Smart Home Ultimate)
-Home automation with personal assistant developed with Symfony 6.x
+Smart Home software developed with Symfony 6.x, bootstrap 5.x and javascript.
 
 The Project
 SHU is a complete home automation project.
